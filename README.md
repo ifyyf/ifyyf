@@ -1,16 +1,29 @@
-### Hi there 👋
+## Hello World 👋
 
-<!--
-**ifyyf/ifyyf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **if** , one of the 2000
 
-Here are some ideas to get you started:
+2019 software engineering undergraduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+love coding, music and games
+
+> Every star will shine in its own way
+
+## Contact me
+
+My blog http://ifyyf.com
+
+> gitee：https://gitee.com/ifyyf
+>
+> csdn：https://blog.csdn.net/jay_chou345
+>
+> Email：ifyyf@qq.com
+> 
+> WeChat：YYF346313208
+> 
+> QQ：346313208
+> 
+> [Click here to contact me](https://wpa.qq.com/msgrd?v=3&site=qq&menu=yes&uin=346313208)
+
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ifyyf)](https://github.com/anuraghazra/github-readme-stats)
