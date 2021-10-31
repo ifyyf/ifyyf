@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-I'm **if** , one of the 2000
+I'm **if** , one of the 2001
 
 2019 software engineering undergraduate
 
@@ -21,9 +21,6 @@ My blog http://ifyyf.com
 > WeChat：YYF346313208
 > 
 > QQ：346313208
-> 
-> [Click here to contact me](https://wpa.qq.com/msgrd?v=3&site=qq&menu=yes&uin=346313208)
-
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ifyyf)](https://github.com/anuraghazra/github-readme-stats)
