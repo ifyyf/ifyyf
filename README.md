@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-I'm **if** , one of the 2001
+I'm **if** , the generation born in the 2001
 
 2019 software engineering undergraduate
 
@@ -16,7 +16,7 @@ My blog http://ifyyf.com
 >
 > csdn：https://blog.csdn.net/jay_chou345
 >
-> Email：ifyyf@qq.com
+> Email：if_yyf@163.com
 > 
 > WeChat：YYF346313208
 > 
