@@ -6,8 +6,6 @@ This is **ifyyf** , you can also call me **if**
 
 ## Contact me
 
-My blog : [http://ifyyf.com](http://ifyyf.com)
-
 > github : [https://github.com/ifyyf](https://github.com/ifyyf)
 >
 > Email : ifyyf@qq.com
